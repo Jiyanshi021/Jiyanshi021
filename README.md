@@ -21,13 +21,14 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/jiyanshi-batra-2348732b4/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jiyanshi-batra-2348732b4/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
   </a>
-  <a href="[https://huggingface.co/your-huggingface-id](https://huggingface.co/jiyanshi02)" target="_blank">
+  <a href="https://huggingface.co/jiyanshi02" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/>
   </a>
 </p>
+
 
 ---
 
