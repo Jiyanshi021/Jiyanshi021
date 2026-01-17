@@ -15,7 +15,7 @@
 
 ### 🔗 Portfolio & Resume  
 **Portfolio:** [https://your-portfolio-link.com](https://portfolio-main-five-bay.vercel.app/)  
-**Resume:** [https://your-resume-link.com](https://portfolio-main-five-bay.vercel.app/)  
+**Resume:** [https://your-resume-link.com](https://drive.google.com/file/d/1jiWDKpQxLHtyymDUx5Rb4M3B1imma0ql/view?usp=sharing)  
 
 ---
 
